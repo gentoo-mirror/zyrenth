@@ -10,3 +10,4 @@ net-print/foomatic-db 4.0.20140105 4.0.20170331: Printer information files for f
 net-print/ptouch-driver 1.4.2 9999: Driver for the Brother P-touch series of label printers.
 x11-misc/xiccd 0.2.2 0.2.4: xiccd is a simple bridge between colord and X
 x11-plugins/g15purple 0.7: detox safely removes spaces and strange characters from filenames
+x11-plugins/purple-hangouts 9999: Hangouts Plugin for libpurple
