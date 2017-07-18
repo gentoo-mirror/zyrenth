@@ -2,6 +2,30 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+media-libs/avidemux-plugins:aften - Enable A/52 (AC-3) audio encoder support.
+media-libs/avidemux-plugins:amr - Enable Adaptive Multi-Rate format support via media-libs/opencore-amr.
+media-libs/avidemux-plugins:dcaenc - Enable DTS Coherent Acoustics audio encoder support via media-sound/dcaenc.
+media-libs/avidemux-plugins:fdk - Adds support for encoding AAC using media-libs/fdk-aac.
+media-libs/avidemux-plugins:fribidi - Enable unicode bidirectional algorithm support via dev-libs/fribidi.
+media-libs/avidemux-plugins:nvenc - Adds support for NVIDIA Encoder (NVENC) API for hardware accelerated encoding on NVIDIA cards.
+media-libs/avidemux-plugins:opus - Adds support for the Opus codec via media-libs/opus.
+media-libs/avidemux-plugins:twolame - Enable TwoLAME support via media-sound/twolame, an optimised MPEG Audio Layer 2 (MP2) encoder.
+media-libs/avidemux-plugins:vpx - Enable WebM VP8 Codec SDK support via media-libs/libvpx.
+media-libs/avidemux-plugins:x265 - Enables HEVC support with media-libs/x265.
+media-libs/xine-lib:bluray - Enable playback of Blu-ray filesystems using media-libs/libbluray
+media-libs/xine-lib:dxr3 - Enable support for DXR3 mpeg acceleration cards.
+media-libs/xine-lib:flac - Build the media-libs/flac based FLAC demuxer and decoder. This flag is not needed for playing FLAC content, neither standalone nor in Ogg container (OggFLAC), but might have better support for exotic features like 24-bit samples or 96kHz sample rates.
+media-libs/xine-lib:fusionsound - Enable support for the Fusion audio sub system
+media-libs/xine-lib:gtk - Build the gdkpixbuf-based image decoder plugin.
+media-libs/xine-lib:imagemagick - Build the ImageMagick-based image decoder plugin.
+media-libs/xine-lib:mad - Build the media-libs/libmad based mp3 decoder. This mp3 decoder has superior support compared to the one coming from FFmpeg that is used as a fallback. If you experience any bad behaviour with mp3 files (skipping, distorted sound) make sure you enabled this USE flag.
+media-libs/xine-lib:mmap - Use mmap() function while reading file from local disks. Using mmap() will use more virtual memory space, but leaves to the Kernel the task of caching the file's data. mmap() access should be faster, but might misbehave if the device where the file resides in is removed during playback.
+media-libs/xine-lib:truetype - Use media-libs/freetype for font rendering and media-libs/fontconfig for font discovery. Enabling this USE flag will allow OSD (such as subtitles) to use more advanced font and to more easily select which font to use. The support for TrueType fonts in xine-lib is still experimental, and might not be as good looking as the bitmap fonts used with this USE flag disabled.
+media-libs/xine-lib:vdr - Build the VDR plugin
+media-libs/xine-lib:vidix - Enable support for vidix video output.
+media-libs/xine-lib:vis - Adds support for SIMD optimizations for UltraSPARC processors.
+media-libs/xine-lib:vpx - Enable VP8 codec support via media-libs/libvpx.
+media-libs/xine-lib:xvmc - Enable support for XVideo Motion Compensation (accelerated mpeg playback).
 media-plugins/audacious-plugins:adplug - Build with AdPlug (Adlib sound card emulation) support
 media-plugins/audacious-plugins:bs2b - Enable Bauer Bauer stereophonic-to-binaural headphone filter
 media-plugins/audacious-plugins:cue - Support CUE sheets using the libcue library
@@ -11,6 +35,38 @@ media-plugins/audacious-plugins:http - Support HTTP streams through neon
 media-plugins/audacious-plugins:midi - Build with amidi-plug (MIDI synth) support
 media-plugins/audacious-plugins:scrobbler - Build with scrobbler/LastFM submission support
 media-plugins/audacious-plugins:sid - Build with SID (Commodore 64 Audio) support
+media-video/mplayer:bl - Blinkenlights video output
+media-video/mplayer:bluray - Enable playback of Blu-ray filesystems
+media-video/mplayer:bs2b - Enable Bauer stereophonic-to-binaural headphone filter
+media-video/mplayer:cdio - Use libcdio for CD support (instead of cdparanoia)
+media-video/mplayer:cpudetection - Enables runtime CPU detection (useful for binpkgs, compatibility on other CPUs)
+media-video/mplayer:dvdnav - Use forked libdvdnav, navigate menus in GUIs
+media-video/mplayer:enca - Enables support for charset discovery and conversion
+media-video/mplayer:faac - Use external faac library for AAC encoding
+media-video/mplayer:faad - Use external faad library for AAC decoding
+media-video/mplayer:libmpeg2 - Build support for mpeg2 over media-libs/libmpeg2 rather than using ffmpeg.
+media-video/mplayer:live - Enables live.com streaming media support
+media-video/mplayer:md5sum - Enables md5sum video output
+media-video/mplayer:mng - MNG input support
+media-video/mplayer:network - Enables network streaming support
+media-video/mplayer:nut - Enables support for the NUT container format
+media-video/mplayer:osdmenu - Enables support for on-screen display (OSD) menus
+media-video/mplayer:pnm - Add PNM video output option, to create PPM/PGM/PGMYUV images
+media-video/mplayer:pvr - Enable Video4Linux2 MPEG PVR
+media-video/mplayer:radio - Enable V4L2 radio interface and support
+media-video/mplayer:rar - Enable Unique RAR File Library
+media-video/mplayer:rtc - Enables usage of the linux real time clock. The alternative is software emulation of rtc
+media-video/mplayer:rtmp - Enables RTMPDump Streaming Media support
+media-video/mplayer:shm - Enable support for shm
+media-video/mplayer:tga - Enables Targa video output
+media-video/mplayer:toolame - Enable toolame MPEG-2 encoding
+media-video/mplayer:tremor - Enable internal support for Vorbis
+media-video/mplayer:twolame - Enable twolame MPEG-2 encoding
+media-video/mplayer:vcd - Enables VCD support
+media-video/mplayer:vidix - Support for vidix video output
+media-video/mplayer:xvmc - Enables X-Video Motion Compensation support
+media-video/mplayer:yuv4mpeg - Enables yuv4mpeg video output
+media-video/mplayer:zoran - Enables ZR360[56]7/ZR36060 video output
 net-im/pidgin:gadu - Enable Gadu Gadu protocol support
 net-im/pidgin:groupwise - Enable Novell Groupwise protocol support
 net-im/pidgin:gstreamer - Enables voice and video sessions
