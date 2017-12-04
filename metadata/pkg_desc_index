@@ -22,6 +22,7 @@ net-im/spectrum 2.0.3: Spectrum is a XMPP transport/gateway
 net-im/swiften 3.0_rc2 3.0: Just a perfect C++ XMPP library
 net-print/foomatic-db 4.0.20140105 4.0.20170331: Printer information files for foomatic-db-engine to generate ppds
 net-print/ptouch-driver 1.4.2 9999: Driver for the Brother P-touch series of label printers.
+x11-libs/cairo 1.15.8: A vector graphics library with cross-device output support
 x11-misc/xiccd 0.2.2 0.2.4: xiccd is a simple bridge between colord and X
 x11-plugins/g15purple 0.7: Pidgin/libpurple plugin that displays incoming messages on a Logitech G15 LCD screen
 x11-plugins/purple-hangouts 9999: Hangouts Plugin for libpurple
