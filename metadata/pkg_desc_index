@@ -8,5 +8,5 @@ media-sound/rosegarden 13.04: MIDI and audio sequencer and notation editor
 media-video/gpac 0.6.1-r2: Implementation of the MPEG-4 Systems standard developed from scratch in ANSI C
 media-video/mplayer 1.2.1: Media Player for Linux
 net-im/pidgin 2.12.0: GTK Instant Messenger client
-net-print/foomatic-db 4.0.20140105 4.0.20170331: Printer information files for foomatic-db-engine to generate ppds
+net-print/foomatic-db 4.0.20170331: Printer information files for foomatic-db-engine to generate ppds
 x11-plugins/g15purple 0.7: Pidgin/libpurple plugin that displays incoming messages on a Logitech G15 LCD screen
