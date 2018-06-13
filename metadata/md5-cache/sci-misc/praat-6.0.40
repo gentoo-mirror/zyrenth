@@ -8,5 +8,5 @@ LICENSE=GPL-2
 RDEPEND=x11-libs/gtk+:2 media-libs/alsa-lib media-sound/pulseaudio
 SLOT=0
 SRC_URI=https://github.com/praat/praat/archive/v6.0.40.tar.gz -> praat-6.0.40.tar.gz
-_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6
+_eclasses_=desktop	1b286a7e7143d8c4ec89cd0d2743a097
 _md5_=f7430b9b70f5754b99539325320c3419
