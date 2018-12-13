@@ -9,4 +9,4 @@ RDEPEND=x11-libs/gtk+:2 media-libs/alsa-lib media-sound/pulseaudio
 SLOT=0
 SRC_URI=https://github.com/praat/praat/archive/v6.0.43.tar.gz -> praat-6.0.43.tar.gz
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d
-_md5_=f7430b9b70f5754b99539325320c3419
+_md5_=e50cc4a68f36136546a472e1cbf405fe
