@@ -8,7 +8,7 @@ inherit eutils autotools
 DESCRIPTION="Driver for the Brother P-touch series of label printers."
 HOMEPAGE="https://bitbucket.org/philpem/printer-driver-ptouch"
 
-COMMIT_NUMBER="72121843b720"
+COMMIT_NUMBER="bd1a21d12c82"
 
 SRC_URI="https://bitbucket.org/philpem/printer-driver-ptouch/get/${COMMIT_NUMBER}.tar.gz -> ${P}.tar.gz"
 
