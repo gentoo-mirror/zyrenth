@@ -6,7 +6,7 @@ app-misc/keyleds 0.7.5 0.7.8.1 0.7.9: Logitech Keyboard per-key lighting control
 dev-python/DBussy 1.1 1.2 9999: Language bindings for libdbus, for Python
 dev-python/defusedxml 0.6.0: XML bomb protection for Python stdlib modules, an xml serialiser
 dev-python/dropbox 9.1.0: Official Dropbox API Client
-dev-python/exchangelib 1.12.0 1.12.1 2.0.0 9999: Python client for Microsoft Exchange Web Services (EWS)
+dev-python/exchangelib 1.12.0 1.12.1 2.0.0 2.0.1 9999: Python client for Microsoft Exchange Web Services (EWS)
 dev-python/locationsharinglib 1.2.1 1.2.2 3.0.3 3.0.9 4.0.1: API for Google Map's location sharing feature
 dev-python/ofxtools 0.7.1: Library for working with Open Financial Exchange (OFX) formatted data
 dev-python/pdfminer-six 20170720 20181108: Python tool for extracting information from PDF documents
@@ -21,9 +21,9 @@ games-emulation/melonds 0.2 0.3 0.4 0.6b 0.7 0.7.1 0.7.3 9999: Nintendo DS emula
 media-sound/google-play-music-desktop-player-bin 4.5.0 4.6.1: A beautiful cross platform Desktop Player for Google Play Music
 media-sound/pulseaudio-equalizer 4.0: A LADSPA based multiband equalizer for PulseAudio
 net-im/discordrp-mpris 0.2.1 9999: Discord Rich Presence based on mpris2 media players
-net-misc/postman-bin 7.5.0: Supercharge your API workflow
+net-misc/postman-bin 7.5.0 7.6.0: Supercharge your API workflow
 net-print/foomatic-db 4.0.20170331 4.0.20180126: Printer information files for foomatic-db-engine to generate ppds
 net-print/ptouch-driver 1.4.2 1.4.3_pre20170809 9999: Driver for the Brother P-touch series of label printers.
-sci-misc/praat 6.1.02: Speech analysis and synthesis
+sci-misc/praat 6.1.02 6.1.03: Speech analysis and synthesis
 sys-fs/gdrivefs 0.14.9: A complete FUSE adapter for Google Drive.
 x11-plugins/g15purple 0.7: Pidgin plugin that displays incoming messages on a Logitech G15 LCD screen
