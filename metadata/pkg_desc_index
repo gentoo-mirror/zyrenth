@@ -1,7 +1,6 @@
 app-backup/GoSync 0.4: Open source Google drive client written in python.
 app-backup/snapper-gui 9999: GUI for snapper, a tool for Linux filesystem snapshot management
 app-crypt/asedriveiiie-usb 3.7: ASEDriveIIIe USB Card Reader
-app-misc/g810-led 0.2.7 0.2.8: Led controller for Logitech G- 213, 410, 413, 610, 810, 910 and PRO Keyboards
 app-misc/keyleds 0.7.5 0.7.8.1 0.7.9: Logitech Keyboard per-key lighting control -- G410, G610, G810, G910
 dev-python/DBussy 1.1 1.2 9999: Language bindings for libdbus, for Python
 dev-python/defusedxml 0.6.0: XML bomb protection for Python stdlib modules, an xml serialiser
