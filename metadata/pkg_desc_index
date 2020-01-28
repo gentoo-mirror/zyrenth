@@ -3,11 +3,12 @@ app-backup/snapper-gui 9999: GUI for snapper, a tool for Linux filesystem snapsh
 app-crypt/asedriveiiie-usb 3.7: ASEDriveIIIe USB Card Reader
 app-misc/keyleds 0.7.5 0.7.8.1 0.7.9: Logitech Keyboard per-key lighting control -- G410, G610, G810, G910
 dev-python/DBussy 1.1 1.2 9999: Language bindings for libdbus, for Python
+dev-python/dataclasses 0.6: Backport implementation of PEP 557, Data Classes for Python 3.6
 dev-python/defusedxml 0.6.0: XML bomb protection for Python stdlib modules, an xml serialiser
 dev-python/dropbox 9.1.0: Official Dropbox API Client
 dev-python/exchangelib 1.12.0 1.12.1 2.0.0 2.0.1 9999: Python client for Microsoft Exchange Web Services (EWS)
 dev-python/habitipy 0.3.0: Tools and library for Habitica restful API
-dev-python/locationsharinglib 1.2.1 1.2.2 3.0.3 3.0.9 4.0.1: API for Google Map's location sharing feature
+dev-python/locationsharinglib 4.1.0: API for Google Map's location sharing feature
 dev-python/ofxtools 0.7.1: Library for working with Open Financial Exchange (OFX) formatted data
 dev-python/pdfminer-six 20170720 20181108: Python tool for extracting information from PDF documents
 dev-python/pulsectl 18.4.7 18.10.6 18.12.2 9999: High-level interface and ctypes-based bindings for PulseAudio
