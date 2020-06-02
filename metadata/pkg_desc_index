@@ -9,7 +9,7 @@ dev-python/dropbox 9.1.0: Official Dropbox API Client
 dev-python/exchangelib 2.0.1 3.1.1 9999: Python client for Microsoft Exchange Web Services (EWS)
 dev-python/habitipy 0.3.0: Tools and library for Habitica restful API
 dev-python/locationsharinglib 4.1.0: API for Google Map's location sharing feature
-dev-python/ofxtools 0.7.1: Library for working with Open Financial Exchange (OFX) formatted data
+dev-python/ofxtools 0.7.1 0.8.20: Library for working with Open Financial Exchange (OFX) formatted data
 dev-python/pdfminer-six 20170720 20181108 20200402: Python tool for extracting information from PDF documents
 dev-python/pulsectl 18.4.7 18.10.6 18.12.2 20.2.4 9999: High-level interface and ctypes-based bindings for PulseAudio
 dev-python/pydrive 1.3.1: Google Drive API made easy.
