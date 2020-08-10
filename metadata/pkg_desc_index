@@ -27,6 +27,6 @@ net-print/foomatic-db 4.0.20170331 4.0.20180126: Printer information files for f
 net-print/ptouch-driver 1.4.2 1.4.3_pre20170809 9999: Driver for the Brother P-touch series of label printers.
 sci-misc/praat 6.1.02 6.1.03 6.1.11: Speech analysis and synthesis
 sys-fs/gdrivefs 0.14.9: A complete FUSE adapter for Google Drive.
-x11-drivers/displaylink-driver 5.3.0.28: DisplayLink USB Graphics Software
+x11-drivers/displaylink-driver 5.3.0.28 5.3.1.34: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.7.0 1.8.0: Extensible Virtual Display Interface
 x11-plugins/g15purple 0.7: Pidgin plugin that displays incoming messages on a Logitech G15 LCD screen
