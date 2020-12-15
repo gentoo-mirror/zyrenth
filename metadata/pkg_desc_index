@@ -5,19 +5,13 @@ app-misc/keyleds 0.7.5 0.7.8.1 0.7.9: Logitech Keyboard per-key lighting control
 dev-python/dataclasses 0.6: Backport implementation of PEP 557, Data Classes for Python 3.6
 dev-python/dbussy 1.2.1 1.3 9999: Language bindings for libdbus, for Python
 dev-python/defusedxml 0.6.0: XML bomb protection for Python stdlib modules, an xml serialiser
-dev-python/dropbox 9.1.0: Official Dropbox API Client
-dev-python/exchangelib 2.0.1 3.1.1 9999: Python client for Microsoft Exchange Web Services (EWS)
+dev-python/exchangelib 3.1.1 9999: Python client for Microsoft Exchange Web Services (EWS)
 dev-python/habitipy 0.3.0: Tools and library for Habitica restful API
 dev-python/locationsharinglib 4.1.0: API for Google Map's location sharing feature
 dev-python/ofxtools 0.7.1 0.8.20: Library for working with Open Financial Exchange (OFX) formatted data
-dev-python/pdfminer-six 20170720 20181108 20200402: Python tool for extracting information from PDF documents
-dev-python/pulsectl 18.4.7 18.10.6 18.12.2 20.2.4 9999: High-level interface and ctypes-based bindings for PulseAudio
-dev-python/pydrive 1.3.1: Google Drive API made easy.
+dev-python/pdfminer-six 20200402: Python tool for extracting information from PDF documents
+dev-python/pulsectl 20.2.4 9999: High-level interface and ctypes-based bindings for PulseAudio
 dev-python/pynut2 2.1.2: A Python abstraction class to access NUT servers
-dev-python/python-eventlib 0.2.1-r1: Coroutine-based networking library
-dev-python/python-gsmmodem-new 0.12: GSM modem module for Python
-dev-python/python-openhab 2.2: Python library for accessing the openHAB REST API
-dev-python/wakatime 10.8.4 9999: Common interface to the WakaTime api
 games-emulation/melonds 0.2 0.3 0.4 0.6b 0.7 0.7.1 0.7.3 9999: Nintendo DS emulator
 media-sound/google-play-music-desktop-player-bin 4.7.1: A beautiful cross platform Desktop Player for Google Play Music
 media-sound/pulseaudio-equalizer 4.0: A LADSPA based multiband equalizer for PulseAudio
