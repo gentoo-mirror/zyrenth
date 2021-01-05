@@ -12,7 +12,6 @@ dev-python/ofxtools 0.7.1 0.8.20: Library for working with Open Financial Exchan
 dev-python/pdfminer-six 20200402: Python tool for extracting information from PDF documents
 dev-python/pulsectl 20.2.4 9999: High-level interface and ctypes-based bindings for PulseAudio
 dev-python/pynut2 2.1.2: A Python abstraction class to access NUT servers
-games-emulation/melonds 0.2 0.3 0.4 0.6b 0.7 0.7.1 0.7.3 9999: Nintendo DS emulator
 media-sound/google-play-music-desktop-player-bin 4.7.1: A beautiful cross platform Desktop Player for Google Play Music
 media-sound/pulseaudio-equalizer 4.0: A LADSPA based multiband equalizer for PulseAudio
 net-im/discordrp-mpris 0.2.1 9999: Discord Rich Presence based on mpris2 media players
