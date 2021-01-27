@@ -1,23 +1,21 @@
-app-backup/GoSync 0.4: Open source Google drive client written in python.
+app-backup/snapper-gui 9999: GUI for snapper, a tool for Linux filesystem snapshot management
 app-crypt/asedriveiiie-usb 3.7: ASEDriveIIIe USB Card Reader
 app-misc/keyleds 0.7.5 0.7.8.1 0.7.9: Logitech Keyboard per-key lighting control -- G410, G610, G810, G910
 dev-python/commentjson 0.9.0 9999: Helps you create JSON files with Python and JavaScript style inline comments.
 dev-python/dbussy 1.2.1 1.3 9999: Language bindings for libdbus, for Python
 dev-python/defusedxml 0.6.0: XML bomb protection for Python stdlib modules, an xml serialiser
 dev-python/exchangelib 3.1.1 9999: Python client for Microsoft Exchange Web Services (EWS)
-dev-python/locationsharinglib 4.1.0: API for Google Map's location sharing feature
-dev-python/ofxtools 0.7.1 0.8.20: Library for working with Open Financial Exchange (OFX) formatted data
+dev-python/habitipy 0.3.0: Tools and library for Habitica restful API
+dev-python/locationsharinglib 4.1.5: API for Google Map's location sharing feature
+dev-python/ofxtools 0.8.20: Library for working with Open Financial Exchange (OFX) formatted data
 dev-python/pdfminer-six 20200402: Python tool for extracting information from PDF documents
 dev-python/pulsectl 20.2.4 9999: High-level interface and ctypes-based bindings for PulseAudio
-dev-python/pynut2 2.1.2: A Python abstraction class to access NUT servers
 media-sound/google-play-music-desktop-player-bin 4.7.1: A beautiful cross platform Desktop Player for Google Play Music
 media-sound/pulseaudio-equalizer 4.0: A LADSPA based multiband equalizer for PulseAudio
 net-im/discordrp-mpris 0.2.1 9999: Discord Rich Presence based on mpris2 media players
-net-misc/postman-bin 7.5.0 7.6.0 7.21.2: Supercharge your API workflow
-net-print/foomatic-db 4.0.20170331 4.0.20180126: Printer information files for foomatic-db-engine to generate ppds
+net-misc/postman-bin 7.21.2: Supercharge your API workflow
 net-print/ptouch-driver 1.4.2 1.4.3_pre20170809 9999: Driver for the Brother P-touch series of label printers.
 sci-misc/praat 6.1.02 6.1.03 6.1.11: Speech analysis and synthesis
-sys-fs/gdrivefs 0.14.9: A complete FUSE adapter for Google Drive.
 x11-drivers/displaylink-driver 5.3.0.28 5.3.1.34: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.7.0 1.8.0: Extensible Virtual Display Interface
 x11-plugins/g15purple 0.7: Pidgin plugin that displays incoming messages on a Logitech G15 LCD screen
