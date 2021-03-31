@@ -3,6 +3,7 @@ DEPEND=x11-libs/gtk+:2 media-libs/alsa-lib media-sound/pulseaudio
 DESCRIPTION=Speech analysis and synthesis
 EAPI=7
 HOMEPAGE=http://www.fon.hum.uva.nl/praat/ https://github.com/praat/praat
+INHERIT=desktop
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=x11-libs/gtk+:2 media-libs/alsa-lib media-sound/pulseaudio
