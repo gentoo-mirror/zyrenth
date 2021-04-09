@@ -3,7 +3,6 @@ app-crypt/asedriveiiie-usb 3.7: ASEDriveIIIe USB Card Reader
 app-misc/keyleds 0.7.5 0.7.8.1 0.7.9: Logitech Keyboard per-key lighting control -- G410, G610, G810, G910
 dev-python/commentjson 0.9.0 9999: Helps you create JSON files with Python and JavaScript style inline comments.
 dev-python/dbussy 1.3 9999: Language bindings for libdbus, for Python
-dev-python/defusedxml 0.6.0: XML bomb protection for Python stdlib modules, an xml serialiser
 dev-python/exchangelib 3.1.1 9999: Python client for Microsoft Exchange Web Services (EWS)
 dev-python/habitipy 0.3.0: Tools and library for Habitica restful API
 dev-python/locationsharinglib 4.1.5: API for Google Map's location sharing feature
