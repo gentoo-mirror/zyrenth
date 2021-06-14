@@ -11,7 +11,6 @@ dev-python/ofxtools 0.8.20: Library for working with Open Financial Exchange (OF
 dev-python/pdfminer-six 20200402: Python tool for extracting information from PDF documents
 dev-python/pulsectl 20.2.4 9999: High-level interface and ctypes-based bindings for PulseAudio
 media-sound/pulseaudio-equalizer 4.0: A LADSPA based multiband equalizer for PulseAudio
-net-im/discordrp-mpris 0.2.1 9999: Discord Rich Presence based on mpris2 media players
 net-misc/postman-bin 7.21.2: Supercharge your API workflow
 net-print/ptouch-driver 1.4.2 1.4.3_pre20170809 9999: Driver for the Brother P-touch series of label printers.
 sci-misc/praat 6.1.02 6.1.03 6.1.11: Speech analysis and synthesis
