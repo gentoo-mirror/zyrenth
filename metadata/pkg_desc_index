@@ -1,4 +1,3 @@
-app-backup/snapper-gui 9999: GUI for snapper, a tool for Linux filesystem snapshot management
 app-crypt/asedriveiiie-usb 3.7: ASEDriveIIIe USB Card Reader
 app-misc/keyleds 0.7.5 0.7.8.1 0.7.9: Logitech Keyboard per-key lighting control -- G410, G610, G810, G910
 dev-python/commentjson 0.9.0 9999: Helps you create JSON files with Python and JavaScript style inline comments.
