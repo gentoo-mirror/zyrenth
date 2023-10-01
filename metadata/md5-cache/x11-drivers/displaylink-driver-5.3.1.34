@@ -12,5 +12,5 @@ RDEPEND=>=sys-devel/gcc-6.5.0 =x11-drivers/evdi-1.7* virtual/libusb:1 >=x11-base
 RESTRICT=fetch bindist
 SLOT=0
 SRC_URI=displaylink-driver-5.3.1.34.zip
-_eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	5f4bb0758df2e483babf68cd517078ca	udev	eec0bbab06977f1cfc5597269c1fa152
+_eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942	udev	eec0bbab06977f1cfc5597269c1fa152
 _md5_=2d25d0cd2925af1fa95a06723936328c
