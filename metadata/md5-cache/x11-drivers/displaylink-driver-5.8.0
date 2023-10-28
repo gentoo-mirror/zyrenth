@@ -1,16 +1,16 @@
 BDEPEND=virtual/pkgconfig virtual/pkgconfig
-DEFINED_PHASES=install nofetch postinst unpack
+DEFINED_PHASES=install nofetch postinst postrm unpack
 DEPEND=app-admin/chrpath app-arch/unzip
 DESCRIPTION=DisplayLink USB Graphics Software
-EAPI=7
+EAPI=8
 HOMEPAGE=http://www.displaylink.com/downloads/ubuntu
-INHERIT=systemd toolchain-funcs udev
+INHERIT=systemd udev
 IUSE=systemd
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=DisplayLink-EULA
-RDEPEND=>=sys-devel/gcc-6.5.0 >=x11-drivers/evdi-1.12.0 virtual/libusb:1 >=x11-base/xorg-server-1.17.0 !systemd? ( sys-auth/elogind )
+RDEPEND=>=sys-devel/gcc-6.5.0 ~x11-drivers/evdi-1.14.1 virtual/libusb:1 >=x11-base/xorg-server-1.17.0 !systemd? ( sys-auth/elogind )
 RESTRICT=fetch bindist
 SLOT=0
-SRC_URI=displaylink-driver-5.6.1.zip
+SRC_URI=displaylink-driver-5.8.0.zip
 _eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942	udev	eec0bbab06977f1cfc5597269c1fa152
-_md5_=2e639c5bceba0a503c4b73ad2368d748
+_md5_=6fb1c84b88f0c02753c989eb3f0ced6d
