@@ -8,7 +8,7 @@ dev-python/pulsectl 20.2.4 22.3.2 9999: High-level interface and ctypes-based bi
 net-misc/postman-bin 7.21.2: Supercharge your API workflow
 net-print/foomatic-db 4.0.20190226-r1: Printer information files for foomatic-db-engine to generate ppds
 net-print/ptouch-driver 1.6 1.7-r20230927 9999: Driver for the Brother P-touch series of label printers.
-sci-misc/praat 6.4.24: Speech analysis and synthesis
-x11-drivers/displaylink-driver 5.8.0: DisplayLink USB Graphics Software
+sci-misc/praat 6.4.27: Speech analysis and synthesis
+x11-drivers/displaylink-driver 6.1.1: DisplayLink USB Graphics Software
 x11-drivers/evdi 1.14.2: Extensible Virtual Display Interface
 x11-plugins/g15purple 0.7: Pidgin plugin that displays incoming messages on a Logitech G15 LCD screen
