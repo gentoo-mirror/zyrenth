@@ -1,10 +1,4 @@
-app-backup/snapper-gui 9999: GUI for snapper, a tool for Linux filesystem snapshot management
 app-crypt/asedriveiiie-usb 3.7: ASEDriveIIIe USB Card Reader
-dev-python/dbussy 1.3 9999: Language bindings for libdbus, for Python
-dev-python/defusedxml 0.6.0 0.7.1: XML bomb protection for Python stdlib modules, an xml serialiser
-dev-python/habitipy 0.3.0: Tools and library for Habitica restful API
-dev-python/ofxtools 0.8.20 0.9.5: Library for working with Open Financial Exchange (OFX) formatted data
-dev-python/pulsectl 20.2.4 22.3.2 9999: High-level interface and ctypes-based bindings for PulseAudio
 net-misc/postman-bin 7.21.2: Supercharge your API workflow
 net-print/foomatic-db 4.0.20190226-r1: Printer information files for foomatic-db-engine to generate ppds
 net-print/ptouch-driver 1.6 1.7-r20230927 9999: Driver for the Brother P-touch series of label printers.
